@@ -25,6 +25,7 @@ I pursued my Master's in Computer Science from California State University, Long
 - 📫 How to reach me: salonipunjabi4@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love exploring cafes and museums :)
+- 💻 Feel free to check out my projects below!
 <hr/>
 
 ## 🔥 Streak Stats & Languages
