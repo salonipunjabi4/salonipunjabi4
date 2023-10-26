@@ -29,7 +29,7 @@ I pursued my Master's in Computer Science from California State University, Long
 <hr/>
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="salonipunjabi4" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonipunjabi4&theme=algolia&layout=compact" alt="salonipunjabi4" /></p>
 
 
